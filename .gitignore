@@ -1,0 +1,37 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore build outputs
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+
+# Ignore coverage reports
+coverage/
+
+# Ignore dependency directories
+vendor/
+
+# marstek.log
